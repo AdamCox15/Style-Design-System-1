@@ -1,0 +1,156 @@
+h1 {
+  text-align: center;
+  font-size: 50px;
+  text-decoration: underline;
+}
+h2 {
+  text-decoration: underline;
+  font-size: 35px;
+}
+p {
+  font-size: 23px;
+}
+.color-fonts {
+  font-size: 27px;
+}
+.colors {
+display: inline-block;
+border: solid 3px black;
+padding: 10px 5px;
+margin-bottom: 15px;
+}
+.first-color {
+  background-color: #0CACEE;
+  display: inline-block;
+  border: solid 1px black;
+  padding: 30px 20px;
+  color: black;
+  text-align: center;
+  margin: 10px 5px;
+  width: 30%;
+}
+.second-color {
+  background-color: #5EEE0C;
+  display: inline-block;
+  border: solid 1px black;
+  padding: 30px 20px;
+  color: black;
+  text-align: center;
+  margin: 10px 5px;
+  width: 30%;
+}
+.third-color {
+  background-color: #EE3C0C;
+  display: inline-block;
+  border: solid 1px black;
+  padding: 30px 20px;
+  color: black;
+  text-align: center;
+  margin: 10px 5px;
+  width: 30%;
+}
+.fourth-color {
+  background-color: #8E0CEE;
+  display: inline-block;
+  border: solid 1px black;
+  padding: 30px 20px;
+  color: black;
+  text-align: center;
+  margin: 10px 5px;
+  width: 30%;
+}
+.fifth-color {
+  background-color: #EE0CD3;
+  display: inline-block;
+  border: solid 1px black;
+  padding: 30px 20px;
+  color: black;
+  text-align: center;
+  margin: 10px 5px;
+  width: 30%;
+}
+.sixth-color {
+  background-color: #EE8A0C;
+  display: inline-block;
+  border: solid 1px black;
+  padding: 30px 20px;
+  color: black;
+  text-align: center;
+  margin: 10px 5px;
+  width: 30%;
+}
+.fonts {
+ border: solid 3px black;
+ display: inline-block;
+ width: 100%;
+ margin: 10px 0px;
+} 
+.first-font {
+  display: inline-block;
+  padding: 15px 15px;
+  text-align: center;
+  margin: 10px 15px;
+  width: 30%;
+  font-family: 'playfair display' ;
+}
+.second-font {
+  display: inline-block;
+  padding: 15px 15px;
+  text-align: center;
+  margin: 10px 15px;
+  width: 30%;
+  font-family: 'bebas neue';
+}
+.third-font {
+  display: inline-block;
+  padding: 15px 15px;
+  text-align: center;
+  margin: 10px 15px;
+  width: 30%;
+  font-family: 'fuzzy bubbles';
+}
+.font-one {
+  text-decoration: underline;
+  font-size: 30px;
+}
+.font-two {
+  text-decoration: underline;
+  font-size: 30px;
+}
+.font-three {
+  text-decoration: underline;
+  font-size: 30px;
+}
+.text-styles {
+  display: inline-block;
+  border: solid 3px black;
+  width: 100%;
+  margin: 10px 0px;
+}
+.first-text {
+  display: inline-block;
+  padding: 15px 15px;
+  margin: 10px 15px;
+  width: 30%;
+  font-weight: 400;
+  font-size: 30px;
+  font-family: 'playfair display';
+}
+.second-text {
+  display: inline-block;
+  padding: 15px 15px;
+  margin: 10px 15px;
+  width: 30%;
+  font-weight: 400;
+  font-size: 25px;
+  font-family: 'bebas neue';
+}
+.third-text {
+  display: inline-block;
+  padding: 15px 15px;
+  margin: 10px 15px;
+  width: 30%;
+  font-weight: 700;
+  font-size: 20px;
+  font-family: 'fuzzy bubbles';
+}
